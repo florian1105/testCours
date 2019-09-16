@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 etjrtthatharthtrfgrehrtheqheqrh
 =======
 etjrtthatharthtrfzgaerhaeth
 >>>>>>> branch2
+=======
+etjrtthatharthtrfgrehrthgqzrgqerh
+>>>>>>> branch3
